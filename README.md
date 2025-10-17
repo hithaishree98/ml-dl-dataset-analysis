@@ -1,9 +1,6 @@
 ## ML and DL Projects on Real-World Datasets
 
-This repository contains three small but powerful projects where machine learning and deep learning techniques are used to analyze real-world datasets. Each project includes clear visualizations, model building, and performance comparison using Python.
-
-Whether you're just starting out or revising ML concepts, this repo has something useful.
-
+This repository contains three small projects where machine learning and deep learning techniques are used to analyze real-world datasets. 
 ## Project Overviews
 
 ### 1. Seeds Clustering (`seeds_clustering/`)
